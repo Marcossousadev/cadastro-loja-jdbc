@@ -103,7 +103,7 @@ Isso evita que a aplicação precise conhecer diretamente os detalhes de criaç�
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/Marcossousadev/projeto-jdbc-mysql.git
+git clone https://github.com/Marcossousadev/cadastro-loja-jdbc.git
 ```
 
 ### 2. Configure o banco de dados
